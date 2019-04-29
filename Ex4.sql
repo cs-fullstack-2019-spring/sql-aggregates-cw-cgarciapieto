@@ -1,0 +1,1 @@
+SELECT  code, avg(value) from boxes group by contents;

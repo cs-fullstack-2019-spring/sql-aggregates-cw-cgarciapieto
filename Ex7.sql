@@ -1,0 +1,1 @@
+SELECT  contents, avg(value) from boxes group by contents;

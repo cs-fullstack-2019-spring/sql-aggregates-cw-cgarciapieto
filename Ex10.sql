@@ -1,0 +1,1 @@
+delete from boxes where value = 100;

@@ -1,0 +1,1 @@
+select distinct contents from boxes ;

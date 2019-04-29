@@ -1,0 +1,1 @@
+select code avg(value) from warehouses;
